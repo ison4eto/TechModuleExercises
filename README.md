@@ -1,3 +1,3 @@
 # TechModuleExercises
 All files I want to save from TechModule.
-This is the first step to conflict! <^^>
+Conflict sloved. The change is made.
